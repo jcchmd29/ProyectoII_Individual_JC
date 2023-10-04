@@ -1,7 +1,6 @@
 # Análisis de Datos de Siniestros Viales en Buenos Aires
 
 
-
 ## Descripción del Problema y Contexto
 <p align="center">
   <img src="https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/840fccfc-f8d2-4fa6-891e-d9b3b2bcb4bc" alt="9 julio">
@@ -19,9 +18,19 @@ Es importante destacar que la prevención de siniestros viales involucra medidas
 
 El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de análisis de datos. El objetivo es generar información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, se nos proporciona un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021.
 
+### Contenido en el repositorio  ![mochila](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/4ccd9f9c-c4d2-45d2-bd8f-6ef55df6c7df)
+
+* Archivo xlsx.(Dataset)
+* ETL y EDA del dataset (formato Jupyter notebook)
+* Archivo CSV. (Data Frame creado para ser utilizado en el analisis)
+* Archivo SQL. (llamado: datapowerbi) que contiene la Base de Datos creada para cargar en Power BI.
+* Carpeta picture ( Contine las imagenes incluidas aca en este readme)
 
 
-### Análisis Exploratorio de Datos (EDA)
+
+### Análisis Exploratorio de Datos (EDA) ![lupa](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/9bc74d8f-a127-4442-8c97-283ff480bb9d)
+
+
 
 En este proyecto, realizaremos un análisis exploratorio de datos (EDA) para comprender mejor la información proporcionada en el dataset. A continuación, se resumen los aspectos clave a abordar durante el EDA:
 
@@ -47,9 +56,11 @@ En el data set de *'Victimas'* existe una columna *'ID_Hechos'* que contiene la 
 - Se creo un Df unificado de ambos dataset a fin de recabar en un solo lugar toda la informacion necesraia para su manipulacion. la union de realizo con *marge rigth* a traves de las columnas *'ID'* y *'ID_Hechos'*. Postrerior mente se creo un archivo CSV
 
 - Con el archivo CSV que se creo pocredimos a crear un Base de Datos en MySQL Workbench.
+  
 
 
-### Dashboard
+### Dashboard  ![graficos](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/49bfa7e2-a398-4fb1-9ebc-691c9e56c047)
+
 
 Crearemos un dashboard interactivo que incluirá filtros para explorar los datos en detalle. El diseño del dashboard facilitará la interpretación de la información y contendrá gráficos pertinentes para una presentación clara de los datos.
 
@@ -61,7 +72,9 @@ Para ello se utilizaron los siguientes datos:
 
 
 
-### KPIs (Indicadores Clave de Desempeño)
+
+### KPIs (Indicadores Clave de Desempeño)  ![KPI](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/6894b625-f636-4fc8-9289-dd1d612da8ec)
+
 
 Mediremos y graficaremos los siguientes KPIs:
 
@@ -70,13 +83,10 @@ Mediremos y graficaremos los siguientes KPIs:
 
 ![acc viales](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/6ec22ac2-5153-42ee-8fdd-9b35559c3c13)
 
-   - Fórmula: (Número de homicidios en siniestros viales / Población total) * 100,000
-
+ 
 2. Reducción en un 7% de la cantidad de accidentes mortales de motociclistas en el último año, en comparación con el año anterior.
 
 ![motorizado](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/61f68a02-99bf-45a4-abae-948d3bdf4c53)
-
-   - Fórmula: [(Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / Número de accidentes mortales con víctimas en moto en el año anterior] * 100
 
 3. Propuesta y medición de un tercer KPI Propia relevante para la seguridad vial.
 
