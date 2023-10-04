@@ -1,6 +1,11 @@
 # Análisis de Datos de Siniestros Viales en Buenos Aires
 
+
+
 ## Descripción del Problema y Contexto
+<p align="center">
+  <img src="https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/840fccfc-f8d2-4fa6-891e-d9b3b2bcb4bc" alt="9 julio">
+</p>
 
 Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
 
@@ -52,7 +57,8 @@ La creacion del Dashboard se eligio hacer en Power Bi Desktop, el ingreso de la 
 
 Para ello se utilizaron los siguientes datos:
 	
-IMAGEN []
+![Captura de pantalla bd powerbI](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/643d6b86-fd71-4f78-ab98-bbee10161316)
+
 
 
 ### KPIs (Indicadores Clave de Desempeño)
@@ -60,9 +66,16 @@ IMAGEN []
 Mediremos y graficaremos los siguientes KPIs:
 
 1. Reducción en un 10% de la tasa de homicidios en siniestros viales de los últimos seis meses, en comparación con la tasa del semestre anterior.
+
+
+![acc viales](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/6ec22ac2-5153-42ee-8fdd-9b35559c3c13)
+
    - Fórmula: (Número de homicidios en siniestros viales / Población total) * 100,000
 
 2. Reducción en un 7% de la cantidad de accidentes mortales de motociclistas en el último año, en comparación con el año anterior.
+
+![motorizado](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/61f68a02-99bf-45a4-abae-948d3bdf4c53)
+
    - Fórmula: [(Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / Número de accidentes mortales con víctimas en moto en el año anterior] * 100
 
 3. Propuesta y medición de un tercer KPI Propia relevante para la seguridad vial.
@@ -74,8 +87,11 @@ Mediremos y graficaremos los siguientes KPIs:
 
 
 ### Agradecimientos
-Agredecido de haber llegado hasta esta instanccia del BootCamp.
+Agredecido de haber llegado hasta esta instancia del BootCamp.
 
+
+
+![agradecimiento-1-684x384](https://github.com/jcchmd29/ProyectoII_Individual_JC/assets/118317736/3696d156-cf7f-49ec-8846-410bf9fda4a3)
 
 ### Enlaces relacionados 
 
