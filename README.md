@@ -95,9 +95,15 @@ Mediremos y graficaremos los siguientes KPIs:
 
 ### Conclusion
 
+En este proyecto, se analizaron datos de siniestros viales en Buenos Aires entre 2016 y 2021 con el propósito de proporcionar información valiosa para mejorar la seguridad vial. Se realizó un análisis de datos exploratorio (EDA), se creó un dashboard interactivo en Power BI y se establecieron KPIs para medir el progreso en la seguridad vial. El proyecto destaca la importancia de utilizar análisis de datos para abordar problemas de seguridad en las carreteras.
+
+Este análisis de datos puede ayudar a tomar decisiones informadas y reducir la cantidad de víctimas en siniestros viales en la ciudad.
 
 ### Agradecimientos
-Agredecido de haber llegado hasta esta instancia del BootCamp.
+
+Agradecemos la oportunidad de trabajar en este proyecto y esperamos que los resultados contribuyan a mejorar la seguridad vial en Buenos Aires.
+
+Feliz de haber llegado hasta esta instancia del BootCamp.
 
 
 
