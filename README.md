@@ -99,6 +99,12 @@ En este proyecto, se analizaron datos de siniestros viales en Buenos Aires entre
 
 Este análisis de datos puede ayudar a tomar decisiones informadas y reducir la cantidad de víctimas en siniestros viales en la ciudad.
 
+Nuestra atención se ha centrado en el análisis exhaustivo de las tendencias de los KPIs (Indicadores Clave de Desempeño). Este análisis involucra la observación detallada de cómo evolucionan los KPIs a lo largo del tiempo, así como su relación con otras variables cruciales, como la franja horaria, el tipo de calles, el género y la edad, entre otras. Este enfoque nos ha permitido identificar patrones, fluctuaciones y posibles factores que podrían estar contribuyendo a las causas subyacentes de los problemas que estamos investigando.
+
+Hemos diseñado una estrategia de visualización que comienza con una vista panorámica, reflejada en los gráficos seleccionados, lo que facilita la ubicación de información específica en el contexto temporal. Esta lógica nos ayuda a mantener una comprensión global de los datos mientras exploramos detalles específicos. Además, hemos enriquecido la visualización de los KPIs con los insights obtenidos a partir del análisis de métricas realizadas mediante Python.
+
+Este enfoque combinado de análisis y visualización nos brinda una comprensión profunda de cómo se desarrollan los KPIs a lo largo del tiempo y cómo se relacionan con diversas variables. Estamos comprometidos en identificar las oportunidades de mejora y las posibles soluciones a los desafíos que enfrentamos.
+
 ### Agradecimientos
 
 Agradecemos la oportunidad de trabajar en este proyecto y esperamos que los resultados contribuyan a mejorar la seguridad vial en Buenos Aires.
